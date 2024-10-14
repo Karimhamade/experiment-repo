@@ -21,7 +21,7 @@ Ich habe Markdown verwendet, um diese Datei zu formatieren, was es einfacher mac
 
 ## Nächste Schritte
 Ich werde weiterhin neue Funktionen von GitHub erkunden, wie z.B. das Arbeiten mit **Forks**, das Erstellen von **Releases** und das Verwenden von **GitHub Actions** für automatisierte Workflows.
-
+Neue Änderung
 ---
 
 Danke, dass du dieses Repository ansiehst! 💻
